@@ -75,7 +75,7 @@ $oddcomment = 'alt';
 
 <a name="respond" id="respond"></a>
 
-<h3 class="reply">Leave a Reply</h3>
+<h3 class="reply">Leave a Comment</h3>
 
 <?php if ( get_option('comment_registration') && !$user_ID ) : ?>
 <p>You must be <a href="<?php echo get_option('siteurl'); ?>/wp-login.php?redirect_to=<?php the_permalink(); ?>">logged in</a> to post a comment.</p>

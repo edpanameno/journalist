@@ -1,5 +1,3 @@
-This is my modified version of this great simple, yet elegant
-wordpress theme I am currently using for my web site.
 ================================================================
 The Journalist 1.9.9.9 - Designed by Lucian E. Marin | http://lucianmarin.com/
 [Theme built for WordPress 2.3 Ñ 2.8] 

@@ -4,7 +4,7 @@
 <div id="pages">
 <h3>Pages</h3>
 <ul>
-    <?php wp_list_pages('title_li='); ?>
+    <?php //wp_list_pages('title_li='); ?>
 </ul>
 </div>
 
